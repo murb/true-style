@@ -22,3 +22,8 @@ whim.
 $ true
 ~~~~
 
+If you like to check recursively use the `-r` option:
+
+~~~~ .bash
+$ true -r
+~~~~
